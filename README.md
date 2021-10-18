@@ -9,12 +9,16 @@ Additional description about the project and its features.
 - CSS
 - Linters
 
+# Prerequisite
+Setup: Clone oluyaratosin123/Hello-Microverse.git into the selected folder of your choice. 
+Install: Install the necessary linters with the the npx commands given in the linters.yml file in the .github/workflows folder. 
+Run: Run index.html on your live-server.
 
 Authors
 👤 Author1
 
-GitHub:oluyaratosin123
-LinkedIn: Edward Oluyara
+GitHub: @oluyaratosin123
+LinkedIn: @Edward Oluyara
 
 
 📝 License
